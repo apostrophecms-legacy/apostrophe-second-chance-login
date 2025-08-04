@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # apostrophe-second-chance-login
 
 If a user attempts to access a page that is a 404 for them, but would work for an admin, this module notes the URL in a cookie and redirects them to the login page. After successfully logging in, they are taken to the page.
